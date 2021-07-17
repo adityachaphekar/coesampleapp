@@ -1,0 +1,6 @@
+{	"ApplicationType":"Java",
+	"ApplicationName":"SampleJava",
+	"JenkinsJobName":"SampleJob",
+	"JunitEnabled":"false"
+
+}
