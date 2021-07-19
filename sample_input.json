@@ -1,4 +1,4 @@
-{	"ApplicationType":"Java",
+{	"ApplicationType":"React",
 	"ApplicationName":"SampleJava",
 	"JenkinsJobName":"SampleJob",
 	"JunitEnabled":"false"
