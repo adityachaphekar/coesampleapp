@@ -1,5 +1,6 @@
-{	"ApplicationType":"React",
-	"ApplicationName":"ReactApp",
-	"JenkinsJobName":"ReactJob",
+{	"ApplicationType":"Spring",
+	"ApplicationName":"SpringApp",
+	"JenkinsJobName":"SpringJob",
+ 	"pom_path":"spring-boot-samples\spring-boot-sample-atmosphere\pom.xml",
 	"output_format":"zip"
 }
