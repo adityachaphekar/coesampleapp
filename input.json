@@ -2,5 +2,6 @@
 	"ApplicationName":"SpringApp",
 	"JenkinsJobName":"SpringJob",
  	"pom_path":"spring-boot-samples\spring-boot-sample-atmosphere\pom.xml",
-	"output_format":"zip"
+ 	"build_artifact_path":"spring-boot-samples\spring-boot-sample-atmosphere\target\*.jar",
+	"output_format":"jar"
 }
