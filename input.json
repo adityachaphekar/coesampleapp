@@ -1,0 +1,8 @@
+{	"ApplicationType":"Spring",
+	"ApplicationName":"SpringApp",
+	"BuildName":"SpringJob",
+ 	"pom_path":"spring-boot-samples/spring-boot-sample-atmosphere/pom.xml",
+ 	"build_artifact_path":"spring-boot-samples/spring-boot-sample-atmosphere/target/*.jar",
+	"output_format":"jar",
+ 	"Maven_Version":"Maven3"
+}
