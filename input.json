@@ -1,5 +1,5 @@
 {	"ApplicationType":"Spring",
-	"ApplicationName":"SpringAppSample",
+	"ApplicationName":"SpringApp",
 	"BuildName":"SpringJob",
  	"pom_path":"./pom.xml",
  	"build_artifact_path":"./target/*.jar",
