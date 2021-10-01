@@ -4,5 +4,5 @@
  	"pom_path":"./pom.xml",
  	"build_artifact_path":"./target/*.jar",
 	"output_format":"jar",
- 	"Maven_Version":"Maven3"
+ 	"Maven_Version":"Maven4"
 }
